@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @brianhf99
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+Lightweight tool for searching specific NFT and its trait on ME V2 listings for sniping tool
+Current tools are javascript and require lots of javascript only dependencies
 
-<!---
-brianhf99/brianhf99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Usage
+
+python >> main.py
